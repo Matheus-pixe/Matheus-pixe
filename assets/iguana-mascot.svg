@@ -1,87 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 420 300" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="250" viewBox="0 0 360 250" fill="none">
   <defs>
-    <linearGradient id="skin" x1="94" y1="38" x2="341" y2="248" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BEF264"/>
-      <stop offset=".42" stop-color="#4ADE80"/>
-      <stop offset="1" stop-color="#16A34A"/>
+    <linearGradient id="green" x1="90" y1="38" x2="282" y2="214" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9F99D"/><stop offset=".48" stop-color="#4ADE80"/><stop offset="1" stop-color="#15803D"/>
     </linearGradient>
-    <linearGradient id="belly" x1="167" y1="120" x2="304" y2="232" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#D9F99D"/>
-      <stop offset="1" stop-color="#86EFAC"/>
+    <linearGradient id="light" x1="155" y1="128" x2="240" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ECFCCB"/><stop offset="1" stop-color="#86EFAC"/>
     </linearGradient>
-    <radialGradient id="eye" cx="0" cy="0" r="1" gradientTransform="matrix(14 7 -7 14 135 67)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FEF9C3"/>
-      <stop offset=".45" stop-color="#FACC15"/>
-      <stop offset="1" stop-color="#65A30D"/>
-    </radialGradient>
-    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-
-  <!-- Simple foliage at the edges, leaving the mascot clearly visible -->
-  <g stroke="#166534" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".65">
-    <path d="M22 254C39 208 40 164 26 129C58 163 62 210 41 257" fill="#064E3B"/>
-    <path d="M31 250C66 219 92 206 116 201C99 229 68 246 31 250" fill="#14532D"/>
-    <path d="M392 264C368 221 369 182 393 149C408 190 408 229 392 264" fill="#064E3B"/>
-    <path d="M405 263C375 237 352 225 332 222C350 247 376 262 405 263" fill="#14532D"/>
+  <!-- soft circular badge -->
+  <circle cx="177" cy="124" r="103" fill="#052E16" stroke="#22C55E" stroke-opacity=".45" stroke-width="2"/>
+  <circle cx="177" cy="124" r="92" stroke="#4ADE80" stroke-opacity=".15" stroke-width="1.5"/>
+  <!-- simple leaves frame the character -->
+  <path d="M43 203C50 160 39 128 19 108C58 120 78 157 65 202Z" fill="#166534" opacity=".7"/>
+  <path d="M309 205C324 166 321 139 342 115C349 158 338 190 309 205Z" fill="#166534" opacity=".7"/>
+  <!-- tail curled upward -->
+  <path d="M228 160C273 158 297 177 290 198C284 216 253 213 248 196C245 185 258 181 265 189" stroke="#14532D" stroke-width="27" stroke-linecap="round"/>
+  <path d="M228 160C273 158 297 177 290 198C284 216 253 213 248 196C245 185 258 181 265 189" stroke="url(#green)" stroke-width="20" stroke-linecap="round"/>
+  <!-- body -->
+  <path d="M112 129C122 101 157 91 190 103C222 114 244 139 238 165C232 190 201 202 168 195C137 189 109 164 112 129Z" fill="url(#green)" stroke="#14532D" stroke-width="4"/>
+  <!-- belly -->
+  <path d="M129 151C156 166 193 172 224 151C224 175 202 188 177 185C154 182 136 169 129 151Z" fill="url(#light)" opacity=".95"/>
+  <g stroke="#65A30D" stroke-width="2" stroke-linecap="round" opacity=".8">
+    <path d="M151 160L154 178"/><path d="M170 166L171 184"/><path d="M190 166L188 184"/><path d="M208 160L203 177"/>
   </g>
-
-  <!-- Tail: a clear, graceful curve behind the body -->
-  <path d="M280 181C326 180 357 197 376 225C388 245 383 258 366 258C350 257 336 242 326 228C300 246 265 251 237 241L223 208Z" fill="url(#skin)" stroke="#14532D" stroke-width="5" stroke-linejoin="round"/>
-  <path d="M314 217C336 226 351 239 361 251" stroke="#BBF7D0" stroke-width="4" stroke-linecap="round"/>
-  <path d="M325 210C348 217 361 232 369 245" stroke="#15803D" stroke-width="3" stroke-linecap="round"/>
-
-  <!-- Main body -->
-  <path d="M164 127C188 101 229 101 265 120C291 134 308 158 308 182C307 210 281 230 246 234C210 238 178 225 161 205C146 187 145 151 164 127Z" fill="url(#skin)" stroke="#14532D" stroke-width="5" stroke-linejoin="round"/>
-
-  <!-- Visible pale belly -->
-  <path d="M175 176C205 190 253 192 291 173C296 198 274 217 246 222C218 225 191 215 175 199Z" fill="url(#belly)" stroke="#15803D" stroke-width="2.5"/>
-  <g stroke="#65A30D" stroke-width="2" opacity=".75">
-    <path d="M191 190L194 207"/><path d="M210 194L212 215"/><path d="M230 196L231 218"/><path d="M250 193L250 214"/><path d="M269 188L266 207"/>
+  <!-- friendly dorsal crest -->
+  <path d="M115 124L105 103L126 114L132 91L148 110L162 91L175 111L192 101L199 120" fill="#86EFAC" stroke="#166534" stroke-width="3" stroke-linejoin="round"/>
+  <!-- feet -->
+  <path d="M143 177L126 196L106 201M152 181L143 204L127 211M207 177L220 195L238 199" stroke="#15803D" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M106 201L96 199M127 211L117 214M238 199L248 196" stroke="#BBF7D0" stroke-width="3" stroke-linecap="round"/>
+  <!-- head -->
+  <path d="M185 56C165 42 137 45 119 57C105 66 100 80 107 94C115 109 138 115 160 106L186 95C201 86 202 69 185 56Z" fill="url(#green)" stroke="#14532D" stroke-width="4"/>
+  <!-- cheek -->
+  <path d="M119 88C130 98 147 100 160 92" stroke="#D9F99D" stroke-width="4" stroke-linecap="round" opacity=".85"/>
+  <!-- eye, bright and expressive -->
+  <ellipse cx="153" cy="69" rx="19" ry="18" fill="#14532D"/>
+  <ellipse cx="154" cy="69" rx="13" ry="13" fill="#FDE047" filter="url(#glow)"/>
+  <ellipse cx="157" cy="69" rx="3.8" ry="9" fill="#111827"/>
+  <circle cx="149" cy="64" r="3.5" fill="#FFFFFF"/>
+  <!-- brow -->
+  <path d="M137 53C148 46 163 48 171 55" stroke="#ECFCCB" stroke-width="4" stroke-linecap="round"/>
+  <!-- nostril and little smile -->
+  <circle cx="112" cy="83" r="2.5" fill="#14532D"/>
+  <path d="M109 92C121 101 135 101 144 95" stroke="#14532D" stroke-width="2.8" stroke-linecap="round"/>
+  <!-- subtle scales -->
+  <g fill="#ECFCCB" opacity=".85">
+    <circle cx="126" cy="72" r="2"/><circle cx="137" cy="83" r="2"/><circle cx="167" cy="84" r="2"/>
+    <circle cx="181" cy="73" r="2"/><circle cx="193" cy="128" r="2"/><circle cx="210" cy="139" r="2"/>
+    <circle cx="222" cy="153" r="2"/><circle cx="181" cy="151" r="2"/><circle cx="164" cy="147" r="2"/>
   </g>
-
-  <!-- Four simple, visible dorsal spines -->
-  <path d="M160 130L148 104L174 119L181 90L199 115L214 91L229 117L246 101L254 126L272 120L279 143" fill="#86EFAC" stroke="#166534" stroke-width="4" stroke-linejoin="round"/>
-
-  <!-- Front leg -->
-  <path d="M221 194C207 211 195 224 180 237L155 247C147 251 151 261 160 260L191 252L222 230L243 213Z" fill="url(#skin)" stroke="#14532D" stroke-width="4" stroke-linejoin="round"/>
-  <path d="M158 256L145 270M168 256L162 272M179 252L178 268" stroke="#BBF7D0" stroke-width="4" stroke-linecap="round"/>
-
-  <!-- Rear leg -->
-  <path d="M279 184C292 197 302 209 309 225L335 239C344 243 339 253 330 250L298 239L276 220L261 204Z" fill="#22C55E" stroke="#14532D" stroke-width="4" stroke-linejoin="round"/>
-  <path d="M335 244L350 249M330 248L336 264M321 242L321 258" stroke="#BBF7D0" stroke-width="4" stroke-linecap="round"/>
-
-  <!-- Neck -->
-  <path d="M167 91C186 91 204 105 217 127L231 162C218 182 197 187 180 175C163 163 154 140 151 117Z" fill="url(#skin)" stroke="#14532D" stroke-width="5" stroke-linejoin="round"/>
-
-  <!-- Large, clearly visible head -->
-  <path d="M196 48C182 34 157 32 137 39C117 39 100 48 91 63L65 72C55 76 57 84 67 87L91 93C100 107 121 112 140 105L169 99C189 95 205 80 205 65Z" fill="url(#skin)" stroke="#14532D" stroke-width="5" stroke-linejoin="round"/>
-  <path d="M115 48C129 38 151 39 167 47C147 46 134 53 127 64Z" fill="#D9F99D" opacity=".8"/>
-
-  <!-- Expressive eye -->
-  <ellipse cx="138" cy="65" rx="21" ry="17" fill="#14532D" stroke="#166534" stroke-width="3"/>
-  <ellipse cx="138" cy="65" rx="14" ry="13" fill="url(#eye)" filter="url(#softGlow)"/>
-  <ellipse cx="141" cy="65" rx="3.5" ry="10" fill="#111827"/>
-  <circle cx="133" cy="60" r="4" fill="#FFFFFF"/>
-
-  <!-- Nostril, smile and subtle scales -->
-  <ellipse cx="73" cy="78" rx="3.5" ry="2.5" fill="#14532D"/>
-  <path d="M68 88C91 98 111 98 126 91" stroke="#14532D" stroke-width="3" stroke-linecap="round"/>
-  <path d="M86 94L95 94M102 95L109 93" stroke="#D9F99D" stroke-width="2" stroke-linecap="round"/>
-  <g fill="#ECFCCB" opacity=".95">
-    <circle cx="112" cy="77" r="2.2"/><circle cx="123" cy="85" r="2.2"/><circle cx="145" cy="90" r="2.2"/>
-    <circle cx="156" cy="79" r="2.2"/><circle cx="170" cy="69" r="2.2"/><circle cx="178" cy="83" r="2.2"/>
-    <circle cx="193" cy="72" r="2.2"/><circle cx="199" cy="88" r="2.2"/><circle cx="193" cy="118" r="2.2"/>
-    <circle cx="208" cy="130" r="2.2"/><circle cx="226" cy="143" r="2.2"/><circle cx="245" cy="153" r="2.2"/>
-    <circle cx="267" cy="163" r="2.2"/><circle cx="279" cy="177" r="2.2"/><circle cx="247" cy="207" r="2.2"/>
-    <circle cx="226" cy="209" r="2.2"/><circle cx="204" cy="202" r="2.2"/>
-  </g>
-
-  <!-- A few bright leaf strokes frame, rather than hide, the iguana -->
-  <path d="M39 283C64 263 84 257 106 258C90 277 68 285 39 283Z" fill="#052E16" stroke="#22C55E" stroke-width="2.5" stroke-linejoin="round"/>
-  <path d="M46 281L98 261" stroke="#4ADE80" stroke-width="2" stroke-linecap="round"/>
-  <path d="M348 287C366 269 384 260 411 257C399 277 376 287 348 287Z" fill="#052E16" stroke="#22C55E" stroke-width="2.5" stroke-linejoin="round"/>
-  <path d="M354 284L402 261" stroke="#4ADE80" stroke-width="2" stroke-linecap="round"/>
+  <!-- tiny sparkle -->
+  <path d="M264 58V72M257 65H271" stroke="#BEF264" stroke-width="3" stroke-linecap="round"/>
 </svg>
