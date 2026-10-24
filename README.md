@@ -1,116 +1,122 @@
 <div align="center">
 
-# 🎮 Matheus.exe
-### Estudante de Engenharia de Software · Em constante evolução
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:172554,100:2563eb&height=190&section=header&text=Matheus.exe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Leveling%20up%20one%20commit%20at%20a%20time&descAlignY=58&descSize=14" width="100%" alt="Cabeçalho Matheus.exe em azul escuro" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Transformando+caf%C3%A9+em+c%C3%B3digo...;Python+%7C+SQL+%7C+Excel;Aprendendo+na+pr%C3%A1tica%2C+um+commit+por+vez;Miss%C3%A3o+atual%3A+virar+um+dev+melhor" alt="Animação com interesses de estudo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1100&color=60A5FA&center=true&vCenter=true&width=680&lines=Aprendendo+na+pr%C3%A1tica%2C+um+commit+por+vez;Python+%7C+SQL+%7C+Excel+%7C+IA;Transformando+curiosidade+em+projetos;New+level+unlocked%3A+aprender+algo+novo" alt="Texto animado sobre estudos e programação" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Matheus--pixe-181717?style=for-the-badge&logo=github)](https://github.com/Matheus-pixe)
-[![Python](https://img.shields.io/badge/Python-estudando-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-estudando-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Matheus--pixe-111827?style=flat-square&logo=github)](https://github.com/Matheus-pixe)
+[![Python](https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-learning-4479A1?style=flat-square&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Excel](https://img.shields.io/badge/Excel-foundations-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![VS Code](https://img.shields.io/badge/Made%20with-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 </div>
 
 ---
 
-## 🧑‍🚀 Player card
+## 👾 Player profile
 
-- 🎓 **Curso:** Engenharia de Software — UNIFAN
-- 🧭 **Foco atual:** fundamentos de programação e análise de dados
-- 🛠️ **Meu laboratório:** VS Code + projetos pequenos + documentação
-- 🎯 **Objetivo:** construir projetos úteis e entender o código que escrevo — não só fazer funcionar por sorte.
+> 🎓 Estudante de **Engenharia de Software na UNIFAN**. Estou construindo minha base em programação e análise de dados, estudando um conceito por vez e transformando exercícios em projetos práticos.
 
-> Estou construindo minha base. Os níveis abaixo são uma **autoavaliação do meu momento de estudo**, não certificações nem experiência profissional.
+- 🧭 **Foco atual:** Python, SQL, Excel e fundamentos de IA.
+- 🧰 **Meu setup:** VS Code, Git e curiosidade para testar as coisas.
+- 🎯 **Objetivo:** criar projetos úteis, explicar as decisões do código e resolver problemas com cada vez mais autonomia.
+- 🧪 **Meu ciclo:** aprender → praticar → errar → corrigir → documentar → repetir.
 
-## 🧩 Skill tree — meu nível atual
+> Os níveis abaixo são uma autoavaliação do meu momento de estudo — não certificações nem experiência profissional.
 
-| Habilidade | Nível | Status |
+## 🧩 Skill tree · evolução atual
+
+| Habilidade | XP atual | Status |
 |---|---|---|
-| 🐍 **Python** | 🟩🟩⬜⬜⬜ **2/5** | Iniciante ativo |
-| 🗃️ **SQL** | 🟩⬜⬜⬜⬜ **1/5** | Fundamentos em estudo |
-| 📊 **Excel** | 🟩⬜⬜⬜⬜ **1/5** | Curso básico em andamento |
-| 🤖 **Inteligência Artificial** | 🟩⬜⬜⬜⬜ **1/5** | Estudando fundamentos |
-| 🐙 **Git e GitHub** | 🟩⬜⬜⬜⬜ **1/5** | Aprendendo na prática |
-| 🐳 **Docker / DevOps** | 🟩⬜⬜⬜⬜ **1/5** | Primeiro contato; revisando a aula |
-| ⚙️ **C** | 🟩⬜⬜⬜⬜ **1/5** | Fundamentos e exercícios |
+| 🐍 **Python** | 🟦🟦⬜⬜⬜ **2/5** | Iniciante ativo · funções, validação e exercícios |
+| 🗃️ **SQL** | 🟦⬜⬜⬜⬜ **1/5** | Fundamentos em estudo |
+| 📊 **Excel** | 🟦⬜⬜⬜⬜ **1/5** | Curso básico em andamento |
+| 🤖 **Inteligência Artificial** | 🟦⬜⬜⬜⬜ **1/5** | Estudando fundamentos |
+| 🐙 **Git e GitHub** | 🟦⬜⬜⬜⬜ **1/5** | Praticando versionamento e organização |
+| ⚙️ **C** | 🟦⬜⬜⬜⬜ **1/5** | Fundamentos e exercícios |
 | 📈 **Power BI** | ⬜⬜⬜⬜⬜ **0/5** | Próxima fase |
 | 🔌 **APIs** | ⬜⬜⬜⬜⬜ **0/5** | Na fila de estudos |
 
 <details>
-<summary><b>🔎 Como estou medindo esses níveis?</b> (clique para expandir)</summary>
+<summary><b>🎮 Como funciona minha barra de XP?</b> Clique para abrir os níveis</summary>
 
-- **0/5 — Na fila:** ainda não comecei a estudar de forma estruturada.
-- **1/5 — Primeiros passos:** conheço o tema e estou fazendo os primeiros exercícios.
-- **2/5 — Iniciante ativo:** já escrevo pequenos exemplos e começo a resolver problemas simples com ajuda.
-- **3/5 — Em desenvolvimento:** consigo construir projetos pequenos com mais autonomia.
-- **4/5 — Independente:** consigo estruturar projetos maiores, testar, depurar e explicar decisões.
-- **5/5 — Avançado para meus objetivos:** uso o tema com profundidade e consigo orientar outras pessoas.
+| Nível | Nome | O que significa |
+|---|---|---|
+| **0/5** | Na fila | Ainda não comecei a estudar o tema de forma estruturada. |
+| **1/5** | Primeiro contato | Estou conhecendo os conceitos e fazendo os primeiros exercícios. |
+| **2/5** | Iniciante ativo | Já escrevo pequenos exemplos e resolvo problemas simples com orientação. |
+| **3/5** | Em desenvolvimento | Consigo construir projetos pequenos com mais autonomia. |
+| **4/5** | Independente | Consigo estruturar, testar, depurar e explicar decisões de projetos. |
+| **5/5** | Domínio para meus objetivos | Uso o conhecimento com profundidade e consigo ajudar outras pessoas. |
 
-Os níveis são pessoais e devem evoluir conforme eu praticar. Não representam avaliação técnica externa.
+*Os níveis só devem subir quando eu conseguir demonstrar o conhecimento na prática.*
 
 </details>
 
-## 🎯 Missões em andamento
+## 🎯 Missões ativas
 
-- [ ] 🐍 **Python:** continuar a calculadora, validar entradas e tratar erros.
+- [ ] 🐍 **Python:** melhorar minha calculadora com validação de entradas e tratamento de erros.
 - [ ] 🧠 **Lógica:** praticar listas, pilhas, filas e resolução de problemas.
-- [ ] 🗃️ **SQL:** avançar no curso e praticar consultas em um banco de dados.
-- [ ] 📊 **Excel:** concluir a base e aplicar em pequenas análises.
-- [ ] 🧰 **Git:** registrar projetos com commits claros e READMEs úteis.
-- [ ] 🐳 **Docker:** entender cada serviço do laboratório antes de tentar automatizar o deploy.
+- [ ] 🗃️ **SQL:** avançar nos fundamentos e praticar consultas.
+- [ ] 📊 **Excel:** concluir a base e usar planilhas para organizar e analisar dados.
+- [ ] 🐙 **Git:** registrar alterações com commits claros e manter os projetos documentados.
 
 <details>
-<summary><b>🕹️ Próximas fases desbloqueáveis</b></summary>
+<summary><b>🗺️ Mapa das próximas fases</b></summary>
 
-**Fase 1 — Fundamentos:** Python, lógica, SQL e Excel.  
-**Fase 2 — Projetos pequenos:** automações em Python e consultas SQL documentadas.  
-**Fase 3 — Dados e integração:** Power BI, APIs e projetos que conectem ferramentas.  
-**Fase 4 — Engenharia:** testes, organização de código, Docker e automação de entrega.
+**Fase 1 — Fundamentos:** lógica, Python, SQL e Excel.  
+**Fase 2 — Construir:** programas pequenos, exercícios bem documentados e consultas SQL.  
+**Fase 3 — Analisar e conectar:** projetos de dados, Power BI e APIs.  
+**Fase 4 — Evoluir:** testes, qualidade de código, organização e projetos mais completos.
 
-Vou avançar por etapas, sem marcar uma tecnologia como dominada antes de conseguir usá-la na prática.
+A missão não é parecer avançado: é ficar melhor a cada projeto.
 
 </details>
 
-## 🛠️ Projetos e laboratórios
+## 🛠️ Projetos em destaque
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐳 [Docker — laboratório de aula](https://github.com/Matheus-pixe/Docker)
-
-**Tipo:** revisão de conteúdo
-
-Exploração de Docker Compose, Nginx, LocalStack e exemplos de AWS. Estou retomando os conceitos e organizando a documentação para entender melhor o fluxo.
-
-</td>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 📚 [Caderno de estudos](https://github.com/Matheus-pixe/Estudo-software)
 
-**Tipo:** aprendizado contínuo
+Meu espaço para organizar exercícios, anotações e projetos da minha formação em Engenharia de Software.
 
-Repositório para separar exercícios e anotações de Python, SQL, Excel/Power BI e projetos práticos.
+**Em foco:** Python · SQL · Excel/Power BI
 
-</td>
-</tr>
+[Explorar repositório →](https://github.com/Matheus-pixe/Estudo-software)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🧮 Próximo projeto: Python
+
+Quero transformar meus exercícios em programas pequenos, úteis e bem documentados — começando por validação de dados, funções e tratamento de erros.
+
+**Status:** em construção, conforme eu praticar.
+
+    </td>
+  </tr>
 </table>
 
-## 🧰 Inventário de ferramentas
+## 🧰 Meu setup de estudos
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 <details>
-<summary><b>💡 Um pouco sobre meu jeito de aprender</b></summary>
+<summary><b>💡 Como eu gosto de aprender</b></summary>
 
-Prefiro entender o motivo de cada linha, testar pequenas mudanças e registrar o que descobri. Este perfil vai acompanhar minha evolução real: dúvidas, exercícios, erros corrigidos e projetos melhores a cada versão.
+Gosto de entender por que o código funciona, testar mudanças pequenas e aprender resolvendo problemas. Uso este perfil como um diário de evolução: exercícios, erros corrigidos, projetos e novas habilidades.
 
 </details>
 
@@ -118,7 +124,10 @@ Prefiro entender o motivo de cada linha, testar pequenas mudanças e registrar o
 
 <div align="center">
 
-**🚀 XP ganho: cada exercício conta.**  
-*Ainda não sou o chefe final — estou jogando a campanha.*
+### 🏆 Achievement unlocked: continuar aprendendo
+
+*Ainda não cheguei ao chefe final. Estou curtindo a campanha e ganhando XP no caminho.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:172554,100:0b1020&height=95&section=footer" width="100%" alt="Rodapé azul" />
 
 </div>
