@@ -14,32 +14,32 @@
 
 ---
 
-## 👾 Player profile
+## Sobre mim
 
-> 🎓 Estudante de **Engenharia de Software na UNIFAN**. Estou construindo minha base em programação e análise de dados, estudando um conceito por vez e transformando exercícios em projetos práticos.
+Estudante de **Engenharia de Software na UNIFAN**, construindo minha base em programação e análise de dados. Estou aprendendo um conceito por vez e transformando exercícios em projetos práticos.
 
-- 🧭 **Foco atual:** Python, SQL, Excel e fundamentos de IA.
-- 🧰 **Meu setup:** VS Code, Git e curiosidade para testar as coisas.
-- 🎯 **Objetivo:** criar projetos úteis, explicar as decisões do código e resolver problemas com cada vez mais autonomia.
-- 🧪 **Meu ciclo:** aprender → praticar → errar → corrigir → documentar → repetir.
+- **Foco atual:** Python, SQL, Excel e fundamentos de IA.
+- **Ferramentas:** VS Code e Git.
+- **Objetivo:** criar projetos úteis, explicar as decisões do código e resolver problemas com cada vez mais autonomia.
+- **Meu ciclo:** aprender → praticar → corrigir → documentar → repetir.
 
 > Os níveis abaixo são uma autoavaliação do meu momento de estudo — não certificações nem experiência profissional. O percentual indica a posição na escala pessoal de 0 a 5, não uma nota de proficiência.
 
-## 🧩 Skill tree · evolução atual
+## Skill tree · evolução atual
 
 | Habilidade | Barra de XP | Status |
 |---|---|---|
-| 🐍 **Python** | 🟪🟪⬜⬜⬜ **2/5 · 40%** | Iniciante ativo · funções, validação e exercícios |
-| 🗃️ **SQL** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Fundamentos em estudo |
-| 📊 **Excel** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Curso básico em andamento |
-| 🤖 **Inteligência Artificial** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Estudando fundamentos |
-| 🐙 **Git e GitHub** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Praticando versionamento e organização |
-| ⚙️ **C** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Fundamentos e exercícios |
-| 📈 **Power BI** | ⬜⬜⬜⬜⬜ **0/5 · 0%** | Próxima fase |
-| 🔌 **APIs** | ⬜⬜⬜⬜⬜ **0/5 · 0%** | Na fila de estudos |
+| **Python** | 🟪🟪⬜⬜⬜ **2/5 · 40%** | Iniciante ativo · funções, validação e exercícios |
+| **SQL** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Fundamentos em estudo |
+| **Excel** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Curso básico em andamento |
+| **Inteligência Artificial** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Estudando fundamentos |
+| **Git e GitHub** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Praticando versionamento e organização |
+| **C** | 🟪⬜⬜⬜⬜ **1/5 · 20%** | Fundamentos e exercícios |
+| **Power BI** | ⬜⬜⬜⬜⬜ **0/5 · 0%** | Próxima fase |
+| **APIs** | ⬜⬜⬜⬜⬜ **0/5 · 0%** | Na fila de estudos |
 
 <details>
-<summary><b>🎮 Como funciona minha barra de XP?</b> Clique para abrir os níveis</summary>
+<summary><b>Como funciona minha barra de XP?</b> Clique para abrir os níveis</summary>
 
 | Nível | Barra | Significado |
 |---|---|---|
@@ -54,16 +54,16 @@
 
 </details>
 
-## 🎯 Missões ativas
+## Missões ativas
 
-- [ ] 🐍 **Python:** melhorar minha calculadora com validação de entradas e tratamento de erros.
-- [ ] 🧠 **Lógica:** praticar listas, pilhas, filas e resolução de problemas.
-- [ ] 🗃️ **SQL:** avançar nos fundamentos e praticar consultas.
-- [ ] 📊 **Excel:** concluir a base e usar planilhas para organizar e analisar dados.
-- [ ] 🐙 **Git:** registrar alterações com commits claros e manter os projetos documentados.
+- [ ] **Python:** melhorar minha calculadora com validação de entradas e tratamento de erros.
+- [ ] **Lógica:** praticar listas, pilhas, filas e resolução de problemas.
+- [ ] **SQL:** avançar nos fundamentos e praticar consultas.
+- [ ] **Excel:** concluir a base e usar planilhas para organizar e analisar dados.
+- [ ] **Git:** registrar alterações com commits claros e manter os projetos documentados.
 
 <details>
-<summary><b>🗺️ Mapa das próximas fases</b></summary>
+<summary><b>Mapa das próximas fases</b></summary>
 
 **Fase 1 — Fundamentos:** lógica, Python, SQL e Excel.  
 **Fase 2 — Construir:** programas pequenos, exercícios bem documentados e consultas SQL.  
@@ -74,9 +74,9 @@ A missão não é parecer avançado: é ficar melhor a cada projeto.
 
 </details>
 
-## 🛠️ Projetos em destaque
+## Projetos em destaque
 
-### 📚 [Caderno de estudos](https://github.com/Matheus-pixe/Estudo-software)
+### [Caderno de estudos](https://github.com/Matheus-pixe/Estudo-software)
 
 Meu espaço para organizar exercícios, anotações e projetos da minha formação em Engenharia de Software.
 
@@ -84,13 +84,13 @@ Meu espaço para organizar exercícios, anotações e projetos da minha formaç�
 
 [Explorar repositório →](https://github.com/Matheus-pixe/Estudo-software)
 
-### 🧮 Próximo projeto: Python
+### Próximo projeto: Python
 
 Quero transformar meus exercícios em programas pequenos, úteis e bem documentados — começando por validação de dados, funções e tratamento de erros.
 
 **Status:** planejado; será desenvolvido conforme eu praticar.
 
-## 🧰 Meu setup de estudos
+## Meu setup de estudos
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Quero transformar meus exercícios em programas pequenos, úteis e bem documenta
 </div>
 
 <details>
-<summary><b>💡 Como eu gosto de aprender</b></summary>
+<summary><b>Como eu gosto de aprender</b></summary>
 
 Gosto de entender por que o código funciona, testar mudanças pequenas e aprender resolvendo problemas. Uso este perfil como um diário de evolução: exercícios, erros corrigidos, projetos e novas habilidades.
 
@@ -113,7 +113,7 @@ Gosto de entender por que o código funciona, testar mudanças pequenas e aprend
 
 <div align="center">
 
-### 🏆 Achievement unlocked: continuar aprendendo
+### Achievement unlocked: continuar aprendendo
 
 *Ainda não cheguei ao chefe final. Estou curtindo a campanha e ganhando XP no caminho.*
 
