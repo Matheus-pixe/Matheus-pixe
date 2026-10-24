@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Matheus.exe — estudante de Engenharia de Software, com foco em Python e SQL">
+<img src="assets/header.svg" width="100%" alt="Matheus.exe — estudante de Engenharia de Software, com foco em Python, SQL e dados">
 
 # Matheus da Silva de Lima
 
@@ -14,11 +14,12 @@
 
 ## Sobre mim
 
-- 🎓 Cursando **Engenharia de Software** na UNIFAN.
-- 🐍 Estudando **Python** e fundamentos de programação.
-- 🗄️ Desenvolvendo minha base em **SQL** e análise de dados.
-- 🧰 Aprendendo a utilizar Git e GitHub para organizar meus estudos e projetos.
-- 🎯 Buscando evoluir por meio de prática constante e projetos próprios.
+- 🎓 Estudante de **Engenharia de Software** na UNIFAN.
+- 🐍 Estudando **Python**, lógica de programação e resolução de problemas.
+- 🗄️ Desenvolvendo fundamentos de **SQL** e análise de dados.
+- 📊 Estudando **Excel básico** e SQL em cursos da FGV.
+- 🧰 Aprendendo Git e GitHub para versionar e documentar meus projetos.
+- 🎯 Em busca de oportunidades de estágio em TI, com interesse em programação e dados.
 
 ## Tecnologias em estudo
 
@@ -26,14 +27,22 @@
 
 ![Python](https://img.shields.io/badge/Python-em%20estudo-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-em%20estudo-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-básico-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fundamentos-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-em%20aprendizado-181717?style=for-the-badge&logo=github)
 
 </div>
 
+## Projetos e estudos
+
+- 📚 [Caderno de Estudos — Tecnologia](https://github.com/Matheus-pixe/Estudo-software): exercícios e anotações de aprendizagem.
+- 🐳 [Laboratório de Docker e DevOps](https://github.com/Matheus-pixe/Docker): repositório de estudo com contêineres e serviços locais.
+
+> Os projetos práticos serão adicionados conforme forem desenvolvidos e testados.
+
 ## Objetivo atual
 
-Consolidar a lógica de programação, escrever código mais organizado e construir projetos que demonstrem minha evolução em Python e SQL.
+Consolidar a lógica de programação, praticar Python e SQL, aprender a documentar soluções e construir projetos que demonstrem minha evolução técnica.
 
 ## Estatísticas do GitHub
 
