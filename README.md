@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/matheus-header.svg" width="100%" alt="Cabeçalho Matheus.exe em estilo terminal, com animação e status em desenvolvimento." />
+<img src="assets/header.svg" width="100%" alt="Cabeçalho Matheus.exe em estilo terminal, com animação e status em desenvolvimento." />
 
 
 **Engenharia de Software · Aprendendo, construindo, evoluindo.**
