@@ -1,56 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="250" viewBox="0 0 360 250" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="280" viewBox="0 0 360 280" role="img" aria-labelledby="title desc">
+  <title id="title">Iggy, a iguana verde do Matheus.exe</title>
+  <desc id="desc">Mascote simpática em estilo vetorial, verde-lima, com crista, cauda curvada e expressão confiante.</desc>
   <defs>
-    <linearGradient id="green" x1="90" y1="38" x2="282" y2="214" gradientUnits="userSpaceOnUse">
+    <linearGradient id="body" x1="95" y1="45" x2="260" y2="230" gradientUnits="userSpaceOnUse">
       <stop stop-color="#D9F99D"/><stop offset=".48" stop-color="#4ADE80"/><stop offset="1" stop-color="#15803D"/>
     </linearGradient>
-    <linearGradient id="light" x1="155" y1="128" x2="240" y2="190" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ECFCCB"/><stop offset="1" stop-color="#86EFAC"/>
+    <linearGradient id="belly" x1="135" y1="145" x2="235" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0FDF4"/><stop offset="1" stop-color="#BBF7D0"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#022C22" flood-opacity=".5"/>
     </filter>
   </defs>
-  <!-- soft circular badge -->
-  <circle cx="177" cy="124" r="103" fill="#052E16" stroke="#22C55E" stroke-opacity=".45" stroke-width="2"/>
-  <circle cx="177" cy="124" r="92" stroke="#4ADE80" stroke-opacity=".15" stroke-width="1.5"/>
-  <!-- simple leaves frame the character -->
-  <path d="M43 203C50 160 39 128 19 108C58 120 78 157 65 202Z" fill="#166534" opacity=".7"/>
-  <path d="M309 205C324 166 321 139 342 115C349 158 338 190 309 205Z" fill="#166534" opacity=".7"/>
-  <!-- tail curled upward -->
-  <path d="M228 160C273 158 297 177 290 198C284 216 253 213 248 196C245 185 258 181 265 189" stroke="#14532D" stroke-width="27" stroke-linecap="round"/>
-  <path d="M228 160C273 158 297 177 290 198C284 216 253 213 248 196C245 185 258 181 265 189" stroke="url(#green)" stroke-width="20" stroke-linecap="round"/>
-  <!-- body -->
-  <path d="M112 129C122 101 157 91 190 103C222 114 244 139 238 165C232 190 201 202 168 195C137 189 109 164 112 129Z" fill="url(#green)" stroke="#14532D" stroke-width="4"/>
-  <!-- belly -->
-  <path d="M129 151C156 166 193 172 224 151C224 175 202 188 177 185C154 182 136 169 129 151Z" fill="url(#light)" opacity=".95"/>
-  <g stroke="#65A30D" stroke-width="2" stroke-linecap="round" opacity=".8">
-    <path d="M151 160L154 178"/><path d="M170 166L171 184"/><path d="M190 166L188 184"/><path d="M208 160L203 177"/>
+  <!-- clean badge -->
+  <ellipse cx="180" cy="246" rx="95" ry="10" fill="#052E16" opacity=".45"/>
+  <circle cx="180" cy="132" r="113" fill="#052E16" stroke="#22C55E" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="180" cy="132" r="103" stroke="#86EFAC" stroke-opacity=".18" stroke-width="1.5"/>
+  <g filter="url(#shadow)" stroke="#14532D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- curled tail -->
+    <path d="M220 174C264 169 290 190 285 211C281 230 253 229 248 211C245 201 255 194 264 201" stroke="#14532D" stroke-width="25" fill="none"/>
+    <path d="M220 174C264 169 290 190 285 211C281 230 253 229 248 211C245 201 255 194 264 201" stroke="url(#body)" stroke-width="18" fill="none"/>
+    <!-- body -->
+    <path d="M116 139C125 112 154 101 184 109C215 117 238 140 238 165C238 192 210 210 178 208C146 206 117 186 112 164C110 155 112 146 116 139Z" fill="url(#body)"/>
+    <!-- belly -->
+    <path d="M132 164C158 178 197 180 225 159C226 183 204 198 179 198C157 197 139 184 132 164Z" fill="url(#belly)" stroke="#16A34A" stroke-width="2.5"/>
+    <path d="M155 177L158 191M176 181L176 197M197 178L195 194M214 171L210 187" stroke="#86EFAC" stroke-width="2.5"/>
+    <!-- legs -->
+    <path d="M143 184L126 204L106 210M151 189L145 209L130 216" fill="none" stroke-width="11"/>
+    <path d="M207 185L224 202L242 205" fill="none" stroke-width="11"/>
+    <path d="M105 210L96 208M130 216L121 219M242 205L251 202" stroke="#BBF7D0" stroke-width="3"/>
+    <!-- neck -->
+    <path d="M143 108C149 91 169 84 187 96C203 107 208 126 211 145L190 169C170 169 153 156 146 139Z" fill="url(#body)"/>
+    <!-- crest -->
+    <path d="M110 121L102 99L122 111L130 88L145 108L160 87L174 108L190 97L199 119" fill="#86EFAC" stroke="#166534" stroke-width="3.5"/>
+    <!-- head -->
+    <path d="M188 52C170 38 145 40 128 50C112 59 105 73 112 88C119 103 140 109 160 101L185 91C201 83 205 65 188 52Z" fill="url(#body)"/>
+    <!-- cheek -->
+    <path d="M122 85C132 94 146 96 159 90" fill="none" stroke="#ECFCCB" stroke-width="3.5"/>
+    <!-- expressive eye -->
+    <ellipse cx="157" cy="66" rx="18" ry="18" fill="#14532D" stroke="none"/>
+    <ellipse cx="158" cy="66" rx="12.5" ry="13.5" fill="#FDE047" stroke="none"/>
+    <ellipse cx="161" cy="66" rx="3.5" ry="9" fill="#172554" stroke="none"/>
+    <circle cx="153" cy="61" r="3.5" fill="#FFFFFF" stroke="none"/>
+    <path d="M141 51C150 45 163 46 171 53" fill="none" stroke="#F0FDF4" stroke-width="4"/>
+    <!-- nostril and friendly smile -->
+    <circle cx="116" cy="79" r="2.5" fill="#14532D" stroke="none"/>
+    <path d="M113 88C124 97 138 98 147 91" fill="none" stroke="#14532D" stroke-width="2.8"/>
   </g>
-  <!-- friendly dorsal crest -->
-  <path d="M115 124L105 103L126 114L132 91L148 110L162 91L175 111L192 101L199 120" fill="#86EFAC" stroke="#166534" stroke-width="3" stroke-linejoin="round"/>
-  <!-- feet -->
-  <path d="M143 177L126 196L106 201M152 181L143 204L127 211M207 177L220 195L238 199" stroke="#15803D" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M106 201L96 199M127 211L117 214M238 199L248 196" stroke="#BBF7D0" stroke-width="3" stroke-linecap="round"/>
-  <!-- head -->
-  <path d="M185 56C165 42 137 45 119 57C105 66 100 80 107 94C115 109 138 115 160 106L186 95C201 86 202 69 185 56Z" fill="url(#green)" stroke="#14532D" stroke-width="4"/>
-  <!-- cheek -->
-  <path d="M119 88C130 98 147 100 160 92" stroke="#D9F99D" stroke-width="4" stroke-linecap="round" opacity=".85"/>
-  <!-- eye, bright and expressive -->
-  <ellipse cx="153" cy="69" rx="19" ry="18" fill="#14532D"/>
-  <ellipse cx="154" cy="69" rx="13" ry="13" fill="#FDE047" filter="url(#glow)"/>
-  <ellipse cx="157" cy="69" rx="3.8" ry="9" fill="#111827"/>
-  <circle cx="149" cy="64" r="3.5" fill="#FFFFFF"/>
-  <!-- brow -->
-  <path d="M137 53C148 46 163 48 171 55" stroke="#ECFCCB" stroke-width="4" stroke-linecap="round"/>
-  <!-- nostril and little smile -->
-  <circle cx="112" cy="83" r="2.5" fill="#14532D"/>
-  <path d="M109 92C121 101 135 101 144 95" stroke="#14532D" stroke-width="2.8" stroke-linecap="round"/>
-  <!-- subtle scales -->
-  <g fill="#ECFCCB" opacity=".85">
-    <circle cx="126" cy="72" r="2"/><circle cx="137" cy="83" r="2"/><circle cx="167" cy="84" r="2"/>
-    <circle cx="181" cy="73" r="2"/><circle cx="193" cy="128" r="2"/><circle cx="210" cy="139" r="2"/>
-    <circle cx="222" cy="153" r="2"/><circle cx="181" cy="151" r="2"/><circle cx="164" cy="147" r="2"/>
+  <!-- subtle scale spots -->
+  <g fill="#F0FDF4" opacity=".85">
+    <circle cx="132" cy="69" r="2"/><circle cx="140" cy="80" r="2"/><circle cx="174" cy="81" r="2.2"/>
+    <circle cx="187" cy="69" r="2"/><circle cx="194" cy="129" r="2"/><circle cx="211" cy="144" r="2"/>
+    <circle cx="222" cy="159" r="2"/><circle cx="186" cy="151" r="2"/><circle cx="164" cy="148" r="2"/>
   </g>
-  <!-- tiny sparkle -->
-  <path d="M264 58V72M257 65H271" stroke="#BEF264" stroke-width="3" stroke-linecap="round"/>
+  <!-- tiny sparkle, a small tech accent -->
+  <path d="M266 65V79M259 72H273" stroke="#BEF264" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="89" cy="151" r="3" fill="#4ADE80"/>
 </svg>
