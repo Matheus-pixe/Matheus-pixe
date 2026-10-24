@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030A05,50:14532D,100:86EFAC&height=90&section=header" width="100%" alt="Cabeçalho verde escuro" />
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="58" valign="middle" alt="Logo minimalista de iguana" /> Matheus<span style="color:#4ADE80">.exe</span></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="76" valign="middle" alt="Logo minimalista de iguana inspirada na referência" /> Matheus<span style="color:#4ADE80">.exe</span></h1>
 
 <p align="center"><b>Engenharia de Software · Aprendendo, construindo, evoluindo.</b></p>
 
