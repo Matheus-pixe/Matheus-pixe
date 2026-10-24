@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Excel-b%C3%A1sico-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel básico" />
 
 </div>
+
 ---
 
 ## Sobre mim
@@ -95,7 +96,6 @@ Repositório de estudos e exercícios da minha formação em Engenharia de Softw
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="42" alt="Logo iguana" />
 
 **Matheus.exe** · Disciplina hoje, liberdade amanhã.
 
