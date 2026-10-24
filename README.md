@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="88" alt="Símbolo minimalista da iguana" />
+<img src="assets/matheus-header.svg" width="100%" alt="Cabeçalho animado Matheus.exe com efeito de terminal e status em desenvolvimento" />
 
-# Matheus.exe
+<img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="66" alt="Símbolo minimalista da iguana, mascote do perfil" />
 
 **Engenharia de Software · Aprendendo, construindo, evoluindo.**
 
 <p>
-  <code style="color:#4ADE80">▶ status: em desenvolvimento</code>
   <code>⌘ foco: Python · SQL · Dados</code>
 </p>
 
@@ -17,7 +16,6 @@
 <img src="https://img.shields.io/badge/Excel-b%C3%A1sico-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel básico" />
 
 </div>
-
 ---
 
 ## Sobre mim
