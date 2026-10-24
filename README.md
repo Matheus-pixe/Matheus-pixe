@@ -1,40 +1,42 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="88" alt="Símbolo minimalista da iguana" />
+# Caderno de Estudos — Tecnologia
 
-# Matheus.exe
+**Um espaço para organizar exercícios, anotações e projetos da minha formação em Engenharia de Software.**
 
-**Engenharia de Software · Aprendendo, construindo, evoluindo.**
-
-<p>
-  <code style="color:#4ADE80">▶ status: em desenvolvimento</code>
-  <code>⌘ foco: Python · SQL · Dados</code>
-</p>
-
-<a href="https://github.com/Matheus-pixe"><img src="https://img.shields.io/badge/GitHub-Matheus--pixe-166534?style=flat-square&logo=github" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Python-em%20estudo-22C55E?style=flat-square&logo=python&logoColor=white" alt="Python em estudo" />
-<img src="https://img.shields.io/badge/SQL-fundamentos-15803D?style=flat-square&logo=databricks&logoColor=white" alt="SQL fundamentos" />
-<img src="https://img.shields.io/badge/Excel-b%C3%A1sico-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel básico" />
+![Python](https://img.shields.io/badge/Python-em%20estudo-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-em%20estudo-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-fundamentos-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 </div>
 
----
+## Organização
 
-## Sobre mim
+| Pasta | Conteúdo |
+|---|---|
+| [`python/`](./python/README.md) | Lógica, exercícios e pequenos programas Python. |
+| [`sql/`](./sql/README.md) | Consultas SQL e fundamentos de banco de dados. |
+| [`excel-powerbi/`](./excel-powerbi/README.md) | Exercícios de Excel e, futuramente, Power BI. |
+| [`projetos/`](./projetos/README.md) | Ideias e projetos integradores em desenvolvimento. |
+| [`devops-docker/`](./devops-docker/README.md) | Anotações sobre Docker e o laboratório de aula. |
 
-Sou estudante de **Engenharia de Software na UNIFAN** e estou construindo minha base em programação e análise de dados. Uso este perfil para registrar o que estudo, pratico e desenvolvo ao longo da formação.
+## Como usar este repositório
 
-- **Estudando agora:** Python, SQL, Excel e fundamentos de IA.
-- **Ferramentas do dia a dia:** VS Code e Git/GitHub.
-- **Objetivo:** transformar conceitos em projetos úteis e ganhar autonomia resolvendo problemas reais.
-- **Jeito de aprender:** entender, testar, errar, corrigir e documentar.
+- Separe exercícios por tema e dê nomes que expliquem o objetivo.
+- Inclua um README em cada projeto com problema, objetivo, como executar e o que aprendeu.
+- Registre dúvidas e melhorias futuras sem dizer que algo está concluído quando ainda não estiver.
+- Não envie senhas, tokens, chaves, arquivos `.env` ou dados pessoais para o GitHub.
 
-## Skill tree
+## Convenção de nomes
 
-*Progresso pessoal estimado. Os percentuais representam uma escala de estudo de 0 a 5, não certificações nem uma medida objetiva de proficiência.*
+- Pastas e arquivos: `snake_case` para Python (por exemplo, `calculadora.py`).
+- Commits objetivos: `feat: adiciona calculadora`, `docs: explica exercício`, `fix: corrige validação`.
+- Um projeto maior pode ganhar seu próprio repositório quando fizer sentido, mantendo aqui exercícios e experimentos menores.
 
-| Habilidade | XP | Progresso | Em que estou trabalhando |
-|---|---|---:|---|
+## Status
+
+Este é um caderno de aprendizagem contínua. Os conteúdos serão adicionados conforme forem estudados e praticados.
+>
 | **Python** | `■■□□□` | **40% · 2/5** | Lógica, funções, validação de entradas e exercícios |
 | **SQL** | `■□□□□` | **20% · 1/5** | Fundamentos e consultas |
 | **Excel** | `■□□□□` | **20% · 1/5** | Curso básico e organização de dados |
