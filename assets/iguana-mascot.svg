@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 420 300" fill="none">
+  <defs>
+    <linearGradient id="skin" x1="110" y1="45" x2="335" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#86EFAC"/>
+      <stop offset=".42" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#14532D"/>
+    </linearGradient>
+    <linearGradient id="belly" x1="190" y1="105" x2="325" y2="218" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BBF7D0"/>
+      <stop offset="1" stop-color="#15803D"/>
+    </linearGradient>
+    <radialGradient id="eye" cx="0" cy="0" r="1" gradientTransform="matrix(15 8 -8 15 223 70)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset=".5" stop-color="#A3E635"/>
+      <stop offset="1" stop-color="#365314"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- shadowy leaves -->
+  <g stroke="#166534" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 270C66 211 72 156 54 103C94 145 99 207 65 269" fill="#052E16"/>
+    <path d="M52 269C102 222 136 194 175 181C148 225 104 254 52 269" fill="#064E3B"/>
+    <path d="M387 278C344 216 347 161 380 115C400 171 403 226 387 278" fill="#052E16"/>
+    <path d="M400 270C353 235 323 215 293 206C319 246 360 267 400 270" fill="#064E3B"/>
+    <path d="M99 300C117 260 141 235 171 219C161 261 140 285 99 300" fill="#14532D"/>
+    <path d="M327 300C304 262 293 236 289 208C325 236 344 264 327 300" fill="#14532D"/>
+  </g>
+  <!-- tail and body -->
+  <path d="M300 191C348 195 378 218 395 250C366 243 337 235 310 220C281 246 233 253 203 235C179 220 180 191 203 174L300 191Z" fill="url(#skin)" stroke="#052E16" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M204 205C241 227 287 222 322 204C301 237 245 248 214 229Z" fill="url(#belly)" opacity=".9"/>
+  <!-- back spines -->
+  <path d="M185 155L176 128L197 143L202 113L218 136L229 106L244 133L261 108L271 137L292 122L297 151" fill="#4ADE80" stroke="#166534" stroke-width="4" stroke-linejoin="round"/>
+  <!-- front near leg -->
+  <path d="M257 178C245 197 225 208 205 218L179 242C175 249 184 254 190 249L215 232L249 219L282 199Z" fill="url(#skin)" stroke="#052E16" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M186 244L171 258M192 248L185 264M200 239L201 255" stroke="#86EFAC" stroke-width="4" stroke-linecap="round"/>
+  <!-- rear leg -->
+  <path d="M329 183C342 196 355 209 357 228L380 243C388 249 380 257 373 253L345 238L328 218L307 204Z" fill="#15803D" stroke="#052E16" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M378 247L395 253M373 251L384 264M366 246L368 261" stroke="#86EFAC" stroke-width="4" stroke-linecap="round"/>
+  <!-- neck -->
+  <path d="M229 98C248 99 272 110 286 135L311 177C298 194 279 201 259 196C239 190 226 171 219 147L210 121Z" fill="url(#skin)" stroke="#052E16" stroke-width="5" stroke-linejoin="round"/>
+  <!-- head silhouette, peeking left -->
+  <path d="M282 51C265 38 239 40 223 48C205 49 192 58 184 69L151 76C143 79 143 86 151 89L178 97C184 109 201 116 219 112L248 103C270 98 291 82 294 68Z" fill="url(#skin)" stroke="#052E16" stroke-width="5" stroke-linejoin="round"/>
+  <!-- brow ridge -->
+  <path d="M202 60C211 49 231 46 247 54C231 54 221 59 215 69Z" fill="#BBF7D0" opacity=".65"/>
+  <!-- eye socket and eye -->
+  <ellipse cx="222" cy="67" rx="19" ry="15" fill="#052E16" stroke="#166534" stroke-width="3"/>
+  <ellipse cx="222" cy="67" rx="12" ry="11" fill="url(#eye)" filter="url(#glow)"/>
+  <ellipse cx="225" cy="67" rx="3.2" ry="9" fill="#07130A"/>
+  <circle cx="218" cy="63" r="3" fill="#F0FDF4"/>
+  <!-- nostril and mouth -->
+  <ellipse cx="163" cy="82" rx="3" ry="2.5" fill="#052E16"/>
+  <path d="M154 91C178 101 197 100 211 93" stroke="#052E16" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 95L178 96M188 98L194 97" stroke="#BBF7D0" stroke-width="2" stroke-linecap="round"/>
+  <!-- fine scales -->
+  <g fill="#BBF7D0" opacity=".8">
+    <circle cx="194" cy="80" r="2"/><circle cx="204" cy="88" r="2"/><circle cx="215" cy="98" r="2"/>
+    <circle cx="238" cy="81" r="2"/><circle cx="252" cy="74" r="2"/><circle cx="259" cy="85" r="2"/>
+    <circle cx="276" cy="73" r="2"/><circle cx="270" cy="91" r="2"/><circle cx="290" cy="162" r="2"/>
+    <circle cx="301" cy="170" r="2"/><circle cx="283" cy="179" r="2"/><circle cx="267" cy="170" r="2"/>
+    <circle cx="243" cy="184" r="2"/><circle cx="259" cy="187" r="2"/><circle cx="320" cy="211" r="2"/>
+  </g>
+  <!-- leaf in foreground to camouflage mascot -->
+  <path d="M99 273C142 231 181 222 222 227C193 264 151 279 99 273Z" fill="#052E16" stroke="#15803D" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M110 270L202 234" stroke="#22C55E" stroke-width="2" stroke-linecap="round"/>
+  <path d="M320 294C340 250 366 232 405 223C395 260 367 285 320 294Z" fill="#052E16" stroke="#15803D" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M330 288L393 231" stroke="#22C55E" stroke-width="2" stroke-linecap="round"/>
+</svg>
