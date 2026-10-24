@@ -6,7 +6,7 @@
 
 **Estudante de Engenharia de Software · Desenvolvedor em formação**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Matheus--pixe-181717?style=for-the-badge&logo=github)](https://github.com/Matheus-pixe)
+[![GitHub](https://img.shields.io/badge/GitHub-Matheus--pixe-20C20E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheus-pixe)
 
 </div>
 
@@ -15,41 +15,54 @@
 ## Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** na UNIFAN.
-- 🐍 Estudando **Python**, lógica de programação e resolução de problemas.
-- 🗄️ Desenvolvendo fundamentos de **SQL** e análise de dados.
-- 📊 Estudando **Excel básico** e SQL em cursos da FGV.
+- 📍 **Nível atual:** iniciante em programação, consolidando lógica e fundamentos de Python.
+- 🐍 Praticando Python com variáveis, condicionais, laços, funções, entrada de dados e tratamento básico de erros.
+- 🗄️ Estudando os fundamentos de **SQL** e bancos de dados.
+- 📊 Fazendo cursos de **Excel básico e SQL pela FGV**.
 - 🧰 Aprendendo Git e GitHub para versionar e documentar meus projetos.
 - 🎯 Em busca de oportunidades de estágio em TI, com interesse em programação e dados.
+
+## Nível de estudo
+
+| Tema | Nível atual |
+|---|---|
+| Lógica de programação | Fundamentos em desenvolvimento |
+| Python | Iniciante |
+| SQL | Iniciante / em estudo |
+| Excel | Fundamentos |
+| Git e GitHub | Em aprendizado |
+
+> Os níveis descrevem meu momento de aprendizagem, sem sugerir experiência profissional ou domínio avançado.
 
 ## Tecnologias em estudo
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-em%20estudo-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-em%20estudo-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-básico-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-fundamentos-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-em%20aprendizado-181717?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-iniciante-20C20E?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-em%20estudo-20C20E?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-fundamentos-20C20E?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fundamentos-20C20E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-em%20aprendizado-20C20E?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ## Projetos e estudos
 
-- 📚 [Caderno de Estudos — Tecnologia](https://github.com/Matheus-pixe/Estudo-software): exercícios e anotações de aprendizagem.
-- 🐳 [Laboratório de Docker e DevOps](https://github.com/Matheus-pixe/Docker): repositório de estudo com contêineres e serviços locais.
+- 📚 [Caderno de Estudos — Engenharia de Software](https://github.com/Matheus-pixe/Estudo-software): exercícios, anotações e projetos de aprendizagem.
+- 🐳 [Laboratório de Docker e DevOps](https://github.com/Matheus-pixe/Docker): repositório de estudos com contêineres e serviços locais.
 
-> Os projetos práticos serão adicionados conforme forem desenvolvidos e testados.
+### Projetos práticos em andamento
 
-## Objetivo atual
-
-Consolidar a lógica de programação, praticar Python e SQL, aprender a documentar soluções e construir projetos que demonstrem minha evolução técnica.
+- [Calculadora em Python](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/calculadora) — prática de lógica, funções e validação de entradas.
+- [Sistema de controle de ponto](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/controle_ponto) — planejamento inicial e esquema SQL; ainda precisa de implementação.
+- [Análise de dados de vendas](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/analise_dados) — estudo com dados fictícios para futuras análises.
 
 ## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Matheus-pixe&show_icons=true&theme=merko&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-pixe&layout=compact&theme=merko&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Matheus-pixe&show_icons=true&theme=merko&hide_border=true&locale=pt-br&title_color=20C20E&icon_color=20C20E" alt="Estatísticas do GitHub">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-pixe&layout=compact&theme=merko&hide_border=true&locale=pt-br&title_color=20C20E" alt="Linguagens mais utilizadas">
 
 </div>
 
