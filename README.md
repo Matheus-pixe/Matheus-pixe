@@ -1,15 +1,20 @@
 <div align="center">
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="76" valign="middle" alt="Logo minimalista de iguana inspirada na referência" /> Matheus<span style="color:#4ADE80">.exe</span></h1>
+<img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="88" alt="Símbolo minimalista da iguana" />
 
-<p align="center"><b>Engenharia de Software · Aprendendo, construindo, evoluindo.</b></p>
+# Matheus.exe
 
-<p align="center">
-  <a href="https://github.com/Matheus-pixe"><img src="https://img.shields.io/badge/GitHub-Matheus--pixe-166534?style=flat-square&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Python-em%20estudo-22C55E?style=flat-square&logo=python&logoColor=white" alt="Python em estudo" />
-  <img src="https://img.shields.io/badge/SQL-fundamentos-15803D?style=flat-square&logo=databricks&logoColor=white" alt="SQL fundamentos" />
-  <img src="https://img.shields.io/badge/Excel-b%C3%A1sico-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel básico" />
+**Engenharia de Software · Aprendendo, construindo, evoluindo.**
+
+<p>
+  <code style="color:#4ADE80">▶ status: em desenvolvimento</code>
+  <code>⌘ foco: Python · SQL · Dados</code>
 </p>
+
+<a href="https://github.com/Matheus-pixe"><img src="https://img.shields.io/badge/GitHub-Matheus--pixe-166534?style=flat-square&logo=github" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Python-em%20estudo-22C55E?style=flat-square&logo=python&logoColor=white" alt="Python em estudo" />
+<img src="https://img.shields.io/badge/SQL-fundamentos-15803D?style=flat-square&logo=databricks&logoColor=white" alt="SQL fundamentos" />
+<img src="https://img.shields.io/badge/Excel-b%C3%A1sico-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel básico" />
 
 </div>
 
