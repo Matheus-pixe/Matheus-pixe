@@ -1,17 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="220" viewBox="0 0 240 220" role="img" aria-labelledby="title desc">
-<title id="title">Logo minimalista da iguana Matheus.exe</title>
-<desc id="desc">Silhueta gráfica de um camaleão estilizado, com cauda espiralada, focinho longo e crista geométrica, inspirada na referência escolhida.</desc>
-<g fill="#A3E635">
-  <!-- silhouette: curled tail and arched body -->
-  <path d="M34 139C34 99 58 67 91 57C111 51 132 56 145 67L156 36C158 30 165 30 168 37L178 68C193 73 205 84 210 98L228 105C235 108 234 115 226 119L202 124C189 130 173 127 163 119C159 137 150 151 137 162C156 156 173 162 183 176C197 195 185 213 165 217C143 222 123 207 122 188C121 173 132 162 145 162C155 162 162 170 160 179C159 185 153 189 147 185C143 183 143 178 146 175C138 174 134 182 139 189C146 201 162 201 171 191C182 179 173 168 160 167C144 166 130 181 123 194C113 212 93 210 78 197C62 182 54 160 59 140C64 121 77 107 93 102C109 97 124 103 132 115C139 126 135 140 126 146C118 151 108 147 107 139C106 132 113 127 119 130C117 123 109 123 104 129C97 139 103 151 114 155C127 160 140 150 144 137C151 116 137 96 118 88C98 80 76 88 63 105C52 120 49 139 56 155C63 172 78 185 94 186C84 170 84 151 94 136C102 123 114 117 125 122C132 126 134 136 128 142C123 147 116 144 116 138C112 142 115 148 121 149C130 151 137 141 135 131C132 118 120 111 107 116C89 123 81 142 88 158C96 176 111 185 128 178L143 160C157 143 160 126 157 111C145 98 132 90 116 86C94 80 72 92 61 111C53 125 52 142 58 157C46 153 38 148 34 139Z"/>
-  <!-- iconic head crest -->
-  <path d="M104 57L97 28C96 22 102 19 107 24L128 49Z"/>
-  <circle cx="91" cy="29" r="8"/>
-</g>
-<!-- negative-space eye spiral, as in the chosen reference -->
-<path d="M184 87C194 77 208 82 210 93C212 103 202 109 195 103C190 99 193 93 198 94C201 95 201 99 198 100" fill="none" stroke="#052E16" stroke-width="5" stroke-linecap="round"/>
-<!-- clean muzzle line and small toe cutouts -->
-<path d="M187 117C199 122 212 119 223 112" fill="none" stroke="#052E16" stroke-width="4" stroke-linecap="round"/>
-<path d="M69 165L82 176L73 187L62 177Z" fill="#052E16"/>
-<path d="M80 173L93 183L84 194L73 184Z" fill="#052E16"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="200" viewBox="0 0 240 200" role="img" aria-labelledby="title desc">
+  <title id="title">Iguana Matheus.exe</title>
+  <desc id="desc">Logo limpa de uma iguana vista de lado, com focinho definido, crista curta, olho simples e cauda enrolada.</desc>
+  <g fill="#A3E635" stroke="#A3E635" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Cauda em espiral: uma forma simples e legível -->
+    <path d="M119 129C151 132 174 146 174 165C174 182 156 190 142 181C131 174 136 160 147 159C155 159 159 166 155 171C151 175 145 172 147 168C140 171 143 179 151 180C163 182 170 172 166 162C161 149 143 143 119 142Z" stroke="none"/>
+    <!-- Corpo e pescoço -->
+    <path d="M62 112C66 88 87 74 112 76C134 77 150 91 157 109L178 116L178 129L151 132C141 146 122 153 99 148C77 144 62 131 62 112Z" stroke="none"/>
+    <!-- Cabeça e focinho -->
+    <path d="M94 83C101 66 118 57 137 61C151 64 159 73 165 84L185 90C192 92 192 99 184 102L161 106C151 115 135 117 120 110L105 105C95 101 90 93 94 83Z" stroke="none"/>
+    <!-- Patas simples -->
+    <path d="M83 132L73 150L60 153M99 143L95 157L83 160M137 137L146 151L160 153" fill="none" stroke-width="9"/>
+    <!-- Crista dorsal discreta -->
+    <path d="M94 79L91 63L104 73L111 56L122 71L132 59L139 76L151 72L154 88Z" stroke="none"/>
+  </g>
+  <!-- olho simples e expressivo -->
+  <circle cx="143" cy="78" r="7" fill="#052E16"/>
+  <circle cx="145" cy="76" r="2" fill="#F0FDF4"/>
+  <!-- linha do focinho -->
+  <path d="M165 96C171 99 178 98 183 95" fill="none" stroke="#052E16" stroke-width="2.8" stroke-linecap="round"/>
+  <!-- pequenos recortes das patas para manter o símbolo legível -->
+  <path d="M60 153L54 150M60 153L55 157M83 160L77 158M83 160L78 164M160 153L166 150M160 153L166 157" fill="none" stroke="#052E16" stroke-width="2.5" stroke-linecap="round"/>
 </svg>
