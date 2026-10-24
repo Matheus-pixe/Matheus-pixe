@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03140b,45:166534,100:4ade80&height=190&section=header&text=Matheus.exe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Leveling%20up%20one%20commit%20at%20a%20time&descAlignY=58&descSize=14" width="100%" alt="Cabeçalho Matheus.exe em verde" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03140b,45:166534,100:4ade80&height=105&section=header" width="100%" alt="Cabeçalho verde do perfil" />
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="54" valign="middle" alt="Iguana mascote" /> Matheus.exe</h1>
+
+<p align="center">Engenharia de Software · Em constante evolução</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1100&color=4ADE80&center=true&vCenter=true&width=680&lines=Aprendendo+na+pr%C3%A1tica%2C+um+commit+por+vez;Python+%7C+SQL+%7C+Excel+%7C+IA;Transformando+curiosidade+em+projetos;New+level+unlocked%3A+aprender+algo+novo" alt="Texto animado sobre estudos e programação" />
 
