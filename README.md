@@ -16,7 +16,7 @@
 
 ## 🦎 Sobre mim
 
-<img align="right" width="128" src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" alt="Iguana verde camuflada entre folhas, mascote do perfil" />
+<img align="right" width="205" src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" alt="Iguana verde em destaque, mascote do perfil Matheus.exe" />
 
 Estudante de **Engenharia de Software na UNIFAN**, construindo minha base em programação e análise de dados. Estou aprendendo um conceito por vez e transformando exercícios em projetos práticos.
 
