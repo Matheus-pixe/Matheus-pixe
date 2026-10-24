@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="assets/matheus-header.svg" width="100%" alt="Cabeçalho animado Matheus.exe com efeito de terminal e status em desenvolvimento" />
+<img src="assets/matheus-header.svg" width="100%" alt="Cabeçalho Matheus.exe em estilo terminal, com animação e status em desenvolvimento." />
 
-<img src="https://raw.githubusercontent.com/Matheus-pixe/Matheus-pixe/main/assets/iguana-mascot.svg" width="66" alt="Símbolo minimalista da iguana, mascote do perfil" />
 
 **Engenharia de Software · Aprendendo, construindo, evoluindo.**
 
