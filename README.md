@@ -21,7 +21,7 @@
 
 Sou estudante de **Engenharia de Software na UNIFAN**. Uso este perfil para documentar meu aprendizado, praticar programação e desenvolver projetos aos poucos — mantendo o foco em fundamentos sólidos e evolução constante.
 
-## 🖥️ DEV DASHBOARD
+## DEV DASHBOARD
 
 | Área | Status atual | Próximo objetivo |
 |---|---|---|
@@ -45,7 +45,7 @@ Sou estudante de **Engenharia de Software na UNIFAN**. Uso este perfil para docu
 
 </div>
 
-## 🎮 QUEST LOG — PROJETOS
+## QUEST LOG — PROJETOS
 
 | Projeto | Descrição | Situação |
 |---|---|---|
@@ -64,7 +64,7 @@ Sou estudante de **Engenharia de Software na UNIFAN**. Uso este perfil para docu
 
 </div>
 
-## 🎯 CURRENT MISSION
+## CURRENT MISSION
 
 - [ ] Fortalecer a lógica de programação.
 - [ ] Praticar Python e resolver exercícios com autonomia.
