@@ -59,10 +59,13 @@ Atualmente, estou construindo meus conhecimentos em programação, banco de dado
 <div align="center">
 
 <a href="https://github.com/Matheus-pixe">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Matheus-pixe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br&card_width=400" alt="Estatísticas do GitHub">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=Matheus-pixe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br&hide_rank=true&card_width=700" alt="Estatísticas do GitHub">
 </a>
+
+<br>
+
 <a href="https://github.com/Matheus-pixe">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Matheus-pixe&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&card_width=400" alt="Linguagens mais utilizadas">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Matheus-pixe&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&card_width=700" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
