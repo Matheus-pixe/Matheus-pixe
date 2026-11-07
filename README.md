@@ -2,84 +2,83 @@
 
 <img src="assets/header.svg" width="100%" alt="Matheus.exe — estudante de Engenharia de Software">
 
-# ░▒▓ MATHEUS.EXE ▓▒░
-### Estudante de Engenharia de Software | Desenvolvedor em formação
+# Matheus | Engenharia de Software
 
-[![GitHub](https://img.shields.io/badge/GITHUB-MATHEUS--PIXE-20C20E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Matheus-pixe)
-![Status](https://img.shields.io/badge/STATUS-EM%20EVOLUÇÃO-20C20E?style=for-the-badge)
+**Estudante de Engenharia de Software · Desenvolvedor em formação**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Matheus--pixe-181717?style=for-the-badge&logo=github)](https://github.com/Matheus-pixe)
+[![Status](https://img.shields.io/badge/Status-Aprendendo-238636?style=for-the-badge)](https://github.com/Matheus-pixe)
 
 </div>
 
 ---
 
-## 🟩 PLAYER PROFILE
+## Sobre mim
 
-> `USER: Matheus da Silva de Lima`  
-> `CLASS: Software Engineering Student`  
-> `CURRENT LEVEL: Beginner`  
-> `MISSION: Learn • Build • Improve`
+Sou estudante de **Engenharia de Software na UNIFAN**. Uso este espaço para registrar minha evolução, praticar programação e desenvolver projetos enquanto fortaleço minha base em tecnologia.
 
-Sou estudante de **Engenharia de Software na UNIFAN**. Uso este perfil para documentar meu aprendizado, praticar programação e desenvolver projetos aos poucos — mantendo o foco em fundamentos sólidos e evolução constante.
+Atualmente, estou construindo meus conhecimentos em programação, banco de dados e análise de dados. Meu objetivo é transformar o aprendizado em projetos práticos e conquistar uma oportunidade de estágio em TI.
 
-## DEV DASHBOARD
+## Painel de desenvolvimento
 
-| Área | Status atual | Próximo objetivo |
-|---|---|---|
-| 🐍 **Python** | Iniciante | Praticar funções, validação e organização do código |
-| 🧠 **Lógica** | Fundamentos em desenvolvimento | Resolver problemas com mais autonomia |
-| 🗄️ **SQL** | Em estudo | Consolidar consultas e modelagem de dados |
-| 📊 **Excel** | Fundamentos | Praticar fórmulas e organização de dados |
-| 🧰 **Git/GitHub** | Em aprendizado | Versionar e documentar projetos com consistência |
+| Área | Nível atual | Em foco |
+|:--|:--:|:--|
+| Python | Iniciante | Funções, lógica e organização do código |
+| SQL | Em estudo | Consultas e fundamentos de banco de dados |
+| Excel | Fundamentos | Fórmulas e organização de dados |
+| Git e GitHub | Em aprendizado | Versionamento e documentação |
+| C | Iniciante | Fundamentos de programação |
+| Inteligência Artificial | Em aprendizado | Fundamentos e aplicações práticas |
 
-<sub>Os níveis representam meu estágio atual de aprendizagem, não uma certificação ou experiência profissional.</sub>
+<sub>Os níveis são autoavaliações do meu momento de aprendizagem. Não representam certificações ou experiência profissional.</sub>
 
-## 🟩 TECH INVENTORY
+## Tecnologias e ferramentas
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-BEGINNER-20C20E?style=for-the-badge&logo=python&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-LEARNING-20C20E?style=for-the-badge&logo=mysql&logoColor=black)
-![Excel](https://img.shields.io/badge/EXCEL-FOUNDATIONS-20C20E?style=for-the-badge&logo=microsoftexcel&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-LEARNING-20C20E?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GITHUB-PRACTICE-20C20E?style=for-the-badge&logo=github&logoColor=black)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 
-## QUEST LOG — PROJETOS
+## Projetos em destaque
 
-| Projeto | Descrição | Situação |
-|---|---|---|
-| [🧮 Calculadora Python](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/calculadora) | Operações matemáticas, funções e validação de entradas | Projeto inicial de estudo |
-| [⏱️ Controle de ponto](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/controle_ponto) | Planejamento de sistema e esquema SQL para marcações de ponto | Em planejamento |
-| [📈 Análise de vendas](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/analise_dados) | Base fictícia para futuras práticas de análise de dados | Em desenvolvimento |
-| [📚 Caderno de estudos](https://github.com/Matheus-pixe/Estudo-software) | Exercícios, anotações e prática por assunto | Atualizado conforme estudo |
-| [🐳 Docker & DevOps](https://github.com/Matheus-pixe/Docker) | Laboratório de aprendizagem com contêineres | Repositório de estudos |
+| Projeto | O que estou praticando |
+|:--|:--|
+| [Calculadora em Python](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/calculadora) | Operações matemáticas, funções e validação de entradas |
+| [Controle de ponto](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/controle_ponto) | Planejamento de sistema e estrutura de dados SQL |
+| [Análise de vendas](https://github.com/Matheus-pixe/Estudo-software/tree/main/projetos/analise_dados) | Preparação para práticas de análise de dados |
+| [Caderno de estudos](https://github.com/Matheus-pixe/Estudo-software) | Exercícios, anotações e estudos de programação |
 
-## 📊 PLAYER STATS
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-pixe&show_icons=true&theme=merko&hide_border=true&locale=pt-br&title_color=20C20E&icon_color=20C20E" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-pixe&layout=compact&theme=merko&hide_border=true&locale=pt-br&title_color=20C20E" alt="Linguagens mais utilizadas">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-pixe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-pixe&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-pixe&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade do GitHub">
 
 </div>
 
-## CURRENT MISSION
+## Próximos passos
 
-- [ ] Fortalecer a lógica de programação.
-- [ ] Praticar Python e resolver exercícios com autonomia.
-- [ ] Aprender SQL e fundamentos de banco de dados.
-- [ ] Evoluir os projetos, testar o código e documentar melhorias.
-- [ ] Preparar um portfólio honesto para oportunidades de estágio em TI.
+- [ ] Fortalecer a lógica de programação e a resolução de problemas.
+- [ ] Praticar Python com projetos cada vez mais organizados.
+- [ ] Consolidar SQL e fundamentos de banco de dados.
+- [ ] Avançar em Excel e iniciar Power BI.
+- [ ] Documentar projetos e preparar meu portfólio para oportunidades de estágio.
 
 ---
 
 <div align="center">
 
-`[ SYSTEM MESSAGE ]`
+**Aprender · Praticar · Construir · Evoluir**
 
-**APRENDER. PRATICAR. DOCUMENTAR. REPETIR.**
-
-<sub>🟩 Perfil em construção — cada projeto é mais um passo na jornada.</sub>
+<sub>Este perfil está em constante atualização, assim como meus estudos.</sub>
 
 </div>
