@@ -58,10 +58,10 @@ Atualmente, estou construindo meus conhecimentos em programação, banco de dado
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-pixe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Matheus-pixe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-pixe&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-pixe&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade do GitHub">
+<p><sub>O gráfico de contribuições oficial do GitHub aparece automaticamente no seu perfil, logo abaixo do README.</sub></p>
 
 </div>
 
